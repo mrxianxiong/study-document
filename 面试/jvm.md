@@ -1,6 +1,5 @@
 ### jvm
-1. 类加载步骤
-1. ![](E:\study-document\面试\image\class-loadding.jpg)
+1. 类加载步骤![](class-loadding.jpg)
 2. jvm加载class文件的原理机制
 3. java内存分配
 4. 简述垃圾回收机制
